@@ -1,3 +1,0 @@
-//search this on browser to see dapp 
-sheaks.netlify.app
-//please install and connect metamask to see all datas
